@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application35</string>
+    <string name="Authorization">HomeChat</string>
+    <string name="Authorization_name">Авторизация</string>
+    <string name="Registration_name">Регистрация</string>
+    <string name="Email">Логин</string>
+    <string name="Password">Пароль</string>
+    <string name="Input">Войти</string>
+    <string name="Registration_button">Зарегистроваться</string>
+    <string name="AboutUs">О нас</string>
+    <string name="userAgreement">Пользовательское соглашение</string>
+</resources>
